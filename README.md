@@ -15,6 +15,8 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+AWS_API_KEY=Ni9tok2QGz9xOSKsfBp6q87dnjS8zVmo5t45SGsp
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
